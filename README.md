@@ -5,6 +5,6 @@
 * Conditional statements - IF/ELSE
 * Conditional statements - Switch
 * Functions with outputs
-* How to use the ProgressView
+* Use the ProgressView
 
 
